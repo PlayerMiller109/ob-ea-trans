@@ -1,0 +1,4 @@
+[submodule "trans-log"]
+	path = trans-log
+	url = https://github.com/PlayerMiller109/ob-ea-trans-log
+	branch = main
