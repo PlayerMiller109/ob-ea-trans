@@ -1,0 +1,7 @@
+{
+  "author": "PlayerMiller109",
+  "devDependencies": {
+    "lz-string": "^1.5.0",
+    "release-it": "^19.0.0"
+  }
+}
